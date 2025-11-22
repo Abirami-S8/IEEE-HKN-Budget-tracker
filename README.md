@@ -78,6 +78,10 @@ Then open in browser:
 ```
 http://localhost:5173
 ```
+Deployed link in vercel:
+```
+https://ieee-hkn-budget-tracker.vercel.app/
+```
 *List any admin and test credentials."
 | Role                                               | Email                                       | Password |
 | -------------------------------------------------- | ------------------------------------------- | -------- |
