@@ -16,6 +16,7 @@ With support for Supabase authentication, secure Row-Level-Security (RLS), recei
 | Charts & Reports | Recharts                              |
 | Deployment       | Docker & vercel                       |
 | Architecture     | Containerized Single-Page Application |
+|AI-Finance insights| Google gemini AI                     |
 
 *List the main technologies, frameworks, or tools used in the project.*
 
@@ -30,6 +31,8 @@ With support for Supabase authentication, secure Row-Level-Security (RLS), recei
 - Docker — Containerized deployment
 
 - Vercel — Hosting & deployment platform
+
+- Gemini AI- AI finance insights
 
 ### Implemented Features
 
