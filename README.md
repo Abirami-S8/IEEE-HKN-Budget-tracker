@@ -1,15 +1,3 @@
-# IEEE-HKN International Hackathon
-
-## Team Information
-
-**Team Name:** Team 3 - Hacksmiths
-
-**Team Members:**
-- Abirami S — Nu Eta, Sri Sairam Engineering College
-- Aathika N M — Nu Eta, Sri Sairam Engineering College
-- Arokiya Swetha K — Nu Eta, Sri Sairam Engineering College
-- Aruni B — Nu Eta, Sri Sairam Engineering College
-- Sanjay S — Nu Eta ,Sri Sairam Engineering College
 
 ## Project Overview
 IEEE-HKN Budget Scheduler is an intelligent financial planning and expense management platform built specifically for IEEE-HKN student chapters. It simplifies yearly budget allocation, real-time expense tracking, deadline management, and financial decision-making for chapter activities and funding. The system allows chapter officers and treasurers to efficiently record transactions, categorize expenses, manage academic-year finances, monitor budget status, and generate visual financial reports.
